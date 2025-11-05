@@ -23,13 +23,12 @@ Email Me 👉 ✉️ **kriteeadhikari90@gmail.com** For Collaboration/Project or
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div> -->
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kritiadhikari135&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
